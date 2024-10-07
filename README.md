@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm NightRunners02</h1>
 <h3 align="center">A newbie developer from Indonesia</h3>
 <h1></h1>
-- ⚡ Fun fact: **I Love Cats**
+
+- ⚡ Fun fact **I Love Cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
