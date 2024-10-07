@@ -14,7 +14,7 @@
 
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-<h1 style="text-align: center;">Hi 👋, I'm NightRunners02</h1>
+<h1 align: center;">Hi 👋, I'm NightRunners02</h1>
 
 
 <h3 align="center">A newbie developer from Indonesia</h3>
