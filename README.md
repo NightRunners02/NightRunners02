@@ -19,7 +19,7 @@
 <!-- Social icons section -->
 
 <p align="center"> 
-  <a href="https://www.youtube.com/c/khairyzhafran7018"> <img width="32px" alt="YouTube" title="YouTube" src="https://cdn.simpleicons.org/youtube/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
+  <a href="https://www.youtube.com/c/@khairyzhafran7018"> <img width="32px" alt="YouTube" title="YouTube" src="https://cdn.simpleicons.org/youtube/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://www.linkedin.com/in/khairy-zhafran-67998a330/"> <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.simpleicons.org/linkedin/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://discordapp.com/users/851778536398389303" alt="Discord" title="Profile"> <img width="32px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://instagram.com/catfun0202"> <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/FFA500"/> </a> </p><br/>
