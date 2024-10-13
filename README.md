@@ -33,8 +33,6 @@
 
 ---
 
-<h3 align="center">Hi 👋, I'm NightRunners02</h3>
-
 # 📊 GitHub Stats:
 <div align="center">
   <p align="center">
