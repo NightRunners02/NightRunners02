@@ -1,13 +1,13 @@
 <div style="display: ; justify-content: space-between; align-items: center;">
   <p align="center">
   <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/a6592c32-f656-4239-a7a7-cb8b19891182" height="100px" width="180px" alt="NightRunners02" />
+    <img src="https://github.com/user-attachments/assets/a6592c32-f656-4239-a7a7-cb8b19891182" height="100px" width="100px" alt="NightRunners02" />
   </a>
   <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/0921e9d1-4a56-4a46-bc6a-130b678b1485" height="100px" width="180px" alt="NightRunners02" />
+    <img src="https://github.com/user-attachments/assets/0921e9d1-4a56-4a46-bc6a-130b678b1485" height="100px" width="100px" alt="NightRunners02" />
   </a>
     <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/b8d05eb7-7897-4f35-86bf-0198613515c0" height="100px" width="180px" alt="NightRunners02" />
+    <img src="https://github.com/user-attachments/assets/b8d05eb7-7897-4f35-86bf-0198613515c0" height="100px" width="100px" alt="NightRunners02" />
   </a>
 </div>
 
