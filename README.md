@@ -1,15 +1,17 @@
-<p align="center">
+<div style="display: ; justify-content: space-between; align-items: center;">
+  <p align="center">
   <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/30453b71-7418-482a-ba8e-07481f4beb46" height="100px" widht="180px"alt="NightRunners02" /></a>
-</p>
-
-<p align="center">
+    <img src="https://github.com/user-attachments/assets/a6592c32-f656-4239-a7a7-cb8b19891182" height="100px" width="100px" alt="NightRunners02" />
+  </a>
   <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/3fb08625-5257-4206-a903-5c813855042c" height="100px" widht="180px"alt="NightRunners02" /></a>
-</p>
+    <img src="https://github.com/user-attachments/assets/0921e9d1-4a56-4a46-bc6a-130b678b1485" height="100px" width="100px" alt="NightRunners02" />
+  </a>
+    <a href="https://github.com/NightRunners02">
+    <img src="https://github.com/user-attachments/assets/b8d05eb7-7897-4f35-86bf-0198613515c0" height="100px" width="100px" alt="NightRunners02" />
+  </a>
+</div>
 
 
-https://github.com/NightRunners02/NightRunners02/discussions/1#discussioncomment-10927812 
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
