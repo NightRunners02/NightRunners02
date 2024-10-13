@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/93f8da92-9fdd-4da5-b65e-924e56d12b29" alt="NightRunners02" /></a>
+    <img src="https://github.com/user-attachments/assets/93f8da92-9fdd-4da5-b65e-924e56d12b29" height="120px" widht="180px"alt="NightRunners02" /></a>
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@
 
 ---
 
+<p align="center">
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
