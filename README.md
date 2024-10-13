@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/NightRunners02">
-    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="NightRunners02" /></a>
+    <img src="https://i.ibb.co.com/0hJpR91/Screenshot-2024-10-13-171758.png" alt="NightRunners02" /></a>
 </p>
 
 <p align="center">
