@@ -145,7 +145,7 @@
 
 ---
 
-[![GitHub Followers](https://img.shields.io/github/followers/{username}?style={style}&logo={logo}&label={label})](https://github.com/{username}?tab=followers)
+[![GitHub Followers](https://img.shields.io/github/followers/NightRunners02?style={style}&logo={logo}&label={label})](https://github.com/NightRunners02?tab=followers)
 
 
 
