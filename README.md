@@ -33,9 +33,9 @@
   <a href="https://discordapp.com/users/851778536398389303" alt="Discord" title="Profile"> <img width="32px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://instagram.com/catfun0202"> <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/FFA500"/> </a> </p><br/>
 
-  <p align="center">
-      <!-- GitHub Followers -->
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/?style=for-the-badge&NightRunners02logo=github&label=Followers">
+<p align="center">
+  <!-- GitHub Followers -->
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/NightRunners02?style=for-the-badge&logo=github&label=Followers">
   
   <!-- YouTube Subscribers -->
   <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCQvyoMyqYs9hcajVbZHIJxQ?style=for-the-badge&logo=youtube&label=Subscribers&color=red">
@@ -44,9 +44,9 @@
   <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCQvyoMyqYs9hcajVbZHIJxQ?style=for-the-badge&logo=youtube&label=Views&color=red">
   
   <!-- GitHub Stars -->
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/?style=for-the-badge&logo=github&NightRunners02label=Stars&color=yellow">
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/NightRunners02?style=for-the-badge&logo=github&label=Stars&color=yellow">
+</p>
 
-   </p>
 
 ---
 
