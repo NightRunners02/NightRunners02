@@ -20,7 +20,8 @@
 ---
 
 <p align="center">
-<img height="20em" src="https://visitcount.itsvg.in/api?id=NightRunners02&icon=0&color=0"/> <br>
+  <img alt="Profile Visits" src="https://visitcount.itsvg.in/api?id=NightRunners02&label=Profile%20Views&color=0&icon=5"/>
+ <br>
 
 <br>
 
@@ -32,17 +33,19 @@
   <a href="https://discordapp.com/users/851778536398389303" alt="Discord" title="Profile"> <img width="32px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://instagram.com/catfun0202"> <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/FFA500"/> </a> </p><br/>
 
-   <p align="center">
-      <a href="https://www.youtube.com/@khairyzhafran7018?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2F50DJx-9BiVKXNdLQJqHQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@khairyzhafran7018">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCQvyoMyqYs9hcajVbZHIJxQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/NightRunners02?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NightRunners02?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/NightRunners02?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/NightRunners02?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-     <a href="https://github.com/NightRunners02/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+  <p align="center">
+      <!-- GitHub Followers -->
+  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/NightRunners02?style=for-the-badge&logo=github&label=Followers">
+  
+  <!-- YouTube Subscribers -->
+  <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCQvyoMyqYs9hcajVbZHIJxQ?style=for-the-badge&logo=youtube&label=Subscribers&color=red">
+  
+  <!-- YouTube Views -->
+  <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UCQvyoMyqYs9hcajVbZHIJxQ?style=for-the-badge&logo=youtube&label=Views&color=red">
+  
+  <!-- GitHub Stars -->
+  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/NightRunners02?style=for-the-badge&logo=github&label=Stars&color=yellow">
+
    </p>
 
 ---
@@ -145,22 +148,8 @@
 
 ---
 
-<p align="center">
-  <!-- Visitor Counter -->
-  <img alt="Profile Visits" src="https://visitcount.itsvg.in/api?id=NightRunners02&label=Profile%20Views&color=0&icon=5"/> <br>
 
-  <!-- GitHub Followers -->
-  <img alt="GitHub Followers" src="https://img.shields.io/github/followers/NightRunners02?style=for-the-badge&logo=github&label=Followers">
   
-  <!-- YouTube Subscribers -->
-  <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Subscribers&color=red">
-  
-  <!-- YouTube Views -->
-  <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/YOUR_CHANNEL_ID?style=for-the-badge&logo=youtube&label=Views&color=red">
-  
-  <!-- GitHub Stars -->
-  <img alt="GitHub Stars" src="https://img.shields.io/github/stars/NightRunners02?style=for-the-badge&logo=github&label=Stars&color=yellow">
-</p>
 
 
 
