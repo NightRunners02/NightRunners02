@@ -146,7 +146,8 @@
 ---
 
 <p align="center">
-  <img height="20em" src="https://visitcount.itsvg.in/api?id=NightRunners02&icon=0&color=0"/> <br>
+  <!-- Visitor Counter -->
+  <img alt="Profile Visits" src="https://visitcount.itsvg.in/api?id=NightRunners02&label=Profile%20Views&color=0&icon=5"/> <br>
 
   <!-- GitHub Followers -->
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/NightRunners02?style=for-the-badge&logo=github&label=Followers">
@@ -160,6 +161,7 @@
   <!-- GitHub Stars -->
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/NightRunners02?style=for-the-badge&logo=github&label=Stars&color=yellow">
 </p>
+
 
 
 
