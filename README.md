@@ -169,3 +169,16 @@ Misc / Lain-lain</h2>
 </details>
 
 ---
+## Misc
+
+<div align="center">
+
+[![Stargazers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/stars/NightRunners02/GraphGPT)](https://github.com/NightRunners02/GraphGPT/stargazers)
+
+
+[![Forkers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/forks/NightRunners02/GraphGPT)](https://github.com/HKUDS/NightRunners02/network/members)
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=HKUDS/GraphGPT&type=Date)](https://star-history.com/#HKUDS/GraphGPT&Date)
+
+</div>
