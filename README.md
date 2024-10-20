@@ -163,31 +163,31 @@
 </h3>
 
 <a href="https://github.com/MuhamadAhdanfauzan">
-  <img src="https://avatars.githubusercontent.com/u/149153354?v=4" width="70" height="70" alt="MuhamadAhdanfauzan"/>
+  <img src="https://avatars.githubusercontent.com/u/149153354?v=4" width="30" height="30" alt="MuhamadAhdanfauzan"/>
 </a>
 
 <a href="https://github.com/fluffyash5">
-  <img src="https://avatars.githubusercontent.com/u/173683683?v=4" width="70" height="70" alt="fluffyash5"/>
+  <img src="https://avatars.githubusercontent.com/u/173683683?v=4" width="30" height="30" alt="fluffyash5"/>
 </a>
 
 <a href="https://github.com/funxyle69">
-  <img src="https://avatars.githubusercontent.com/u/184834997?v=4" width="70" height="70" alt="funxyle69"/>
+  <img src="https://avatars.githubusercontent.com/u/184834997?v=4" width="30" height="30" alt="funxyle69"/>
 </a>
 
 <a href="https://github.com/mistergae08">
-  <img src="https://avatars.githubusercontent.com/u/184950558?v=4" width="70" height="70" alt="mistergae08"/>
+  <img src="https://avatars.githubusercontent.com/u/184950558?v=4" width="30" height="30" alt="mistergae08"/>
 </a>
 
 <a href="https://github.com/kanzakikun2">
-  <img src="https://avatars.githubusercontent.com/u/185403031?v=4" width="70" height="70" alt="kanzakikun2"/>
+  <img src="https://avatars.githubusercontent.com/u/185403031?v=4" width="30" height="30" alt="kanzakikun2"/>
 </a>
 
 <a href="https://github.com/funbee0242">
-  <img src="https://avatars.githubusercontent.com/u/185621684?v=4" width="70" height="70" alt="funbee0242"/>
+  <img src="https://avatars.githubusercontent.com/u/185621684?v=4" width="30" height="30" alt="funbee0242"/>
 </a>
 
 <a href="https://github.com/bantalgulingkosong1">
-  <img src="https://avatars.githubusercontent.com/u/185622625?v=4" width="70" height="70" alt="bantalgulingkosong1"/>
+  <img src="https://avatars.githubusercontent.com/u/185622625?v=4" width="30" height="30" alt="bantalgulingkosong1"/>
 </a>
 
 ---
