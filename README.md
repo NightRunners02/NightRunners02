@@ -143,4 +143,20 @@
   </p>
 </details>
 
+<details> 
+ <summary><h2>Misc / Lain-lain<h2><summary>
+
+<div align="center">
+
+[![Stargazers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/stars/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/stargazers)
+
+
+[![Forkers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/forks/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/network/members)
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/GraphGPT&type=Date)](https://star-history.com/#HKUDS/GraphGPT&Date)
+
+</div>
+</details>
+
 ---
