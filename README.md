@@ -157,7 +157,7 @@
   
 ---
 
-  <h3>
+<h3>
   🌃 My GitHub Followers:
 </h3>
 
