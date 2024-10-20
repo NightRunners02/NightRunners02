@@ -58,7 +58,9 @@
 
 <details>
   
-  <summary><h2>📊 Statistics and Activity / Statistik dan Aktivitas</h2></summary>
+  <summary>
+    <h2>📊 Statistics and Activity / Statistik dan Aktivitas</h2>
+  </summary>
   <div align="center">
   <p align="center">
     
@@ -86,7 +88,9 @@
 </details>
 
 <details> 
-  <summary><h2>🛠️ My Favorite Tools and Languages / Alat dan Bahasa Favoritku</h2></summary>
+  <summary>
+    <h2>🛠️ My Favorite Tools and Languages / Alat dan Bahasa Favoritku</h2>
+  </summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <h3>👨‍💻 Programming and Markup Languages / Bahasa Pemrograman dan Markup</h3>
@@ -144,18 +148,23 @@
 </details>
 
 <details> 
- <summary><h2>Misc / Lain-lain<h2><summary>
+  <summary>
+  <h2><img src="https://github.com/user-attachments/assets/248f27a5-ffb7-49ce-b1a7-7e54925a7741" height="35px" width="35px" alt="NightRunners02" />
+Misc / Lain-lain</h2> 
+  </summary>
 
+<p>
 <div align="center">
 
-[![Stargazers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/stars/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/stargazers)
+[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/stargazers)
 
 
-[![Forkers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/forks/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/network/members)
+[![Forkers repo roster for @NightRunners02/](https://reporoster.com/forks/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/network/members)
 
 
 [![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/GraphGPT&type=Date)](https://star-history.com/#HKUDS/GraphGPT&Date)
 
+</p>
 </div>
 </details>
 
