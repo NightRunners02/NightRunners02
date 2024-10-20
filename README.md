@@ -149,8 +149,7 @@
 
 <details> 
   <summary>
-  <h2><img src="https://github.com/user-attachments/assets/248f27a5-ffb7-49ce-b1a7-7e54925a7741" height="30px" width="30px" alt="NightRunners02" />
-     Misc / Lain-lain</h2> 
+  <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
   </summary>
 
 <p>
