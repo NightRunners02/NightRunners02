@@ -156,7 +156,7 @@ Misc / Lain-lain</h2>
 <p>
 <div align="center">
 
-[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/stargazers)
+[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/Pemrograman-Web_Codelab-Praktikum_Khairy)](https://github.com/NightRunners02/Pemrograman-Web_Codelab-Praktikum_Khairy)
 
 
 [![Forkers repo roster for @NightRunners02/](https://reporoster.com/forks/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/network/members)
