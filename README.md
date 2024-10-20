@@ -64,7 +64,7 @@
   <div align="center">
   <p align="center">
     
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻 GitHub Profile Stats:</h3>
 
   <p align="center">
   <a href="https://github.com/NightRunners02">
@@ -89,11 +89,11 @@
 
 <details> 
   <summary>
-    <h2>🛠️ My Favorite Tools and Languages / Alat dan Bahasa Favoritku</h2>
+    <h2>🛠️ My Favorite Tools and Languages / Alat dan Bahasa Favoritku:</h2>
   </summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-  <h3>👨‍💻 Programming and Markup Languages / Bahasa Pemrograman dan Markup</h3>
+  <h3>👨‍💻 Programming and Markup Languages / Bahasa Pemrograman dan Markup:</h3>
 
   <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
