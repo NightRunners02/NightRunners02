@@ -109,7 +109,7 @@
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2.svg?logo=dart&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks and Libraries / Kerangka Kerja dan Pustaka</h3>
+  <h3>🧰 Frameworks and Libraries / Kerangka Kerja dan Pustaka:</h3>
 
   <p>
       <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
@@ -119,7 +119,7 @@
       <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
   </p>
 
-  <h3>🗄️ Databases and Cloud Hosting / Databases dan Hosting Awan</h3>
+  <h3>🗄️ Databases and Cloud Hosting / Databases dan Hosting Awan:</h3>
 
   <p>
       <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
@@ -127,7 +127,7 @@
       <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
   </p>
 
-  <h3>💻 Software and Tools / Perangkat Lunak dan Alat</h3>
+  <h3>💻 Software and Tools / Perangkat Lunak dan Alat:</h3>
 
   <p>
       <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
@@ -155,20 +155,44 @@
 
 <p>
 <div align="center">
-
-[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/NightRunners02)](https://github.com/NightRunners02/NightRunners02/stargazers)
-
+  
 ---
 
-  <h3>My GitHub Followers</h3>
+  <h3>
+  🌃 My GitHub Followers:
+</h3>
 
 <a href="https://github.com/MuhamadAhdanfauzan">
-  <img src="https://avatars.githubusercontent.com/u/149153354?v=4" width="80" height="80" alt="(https://github.com/MuhamadAhdanfauzan)"/>
+  <img src="https://avatars.githubusercontent.com/u/149153354?v=4" width="70" height="70" alt="MuhamadAhdanfauzan"/>
 </a>
 
 <a href="https://github.com/fluffyash5">
-  <img src="https://avatars.githubusercontent.com/u/173683683?v=4" width="80" height="80" alt="[follower2](https://github.com/fluffyash5)"/>
+  <img src="https://avatars.githubusercontent.com/u/173683683?v=4" width="70" height="70" alt="fluffyash5"/>
 </a>
+
+<a href="https://github.com/funxyle69">
+  <img src="https://avatars.githubusercontent.com/u/184834997?v=4" width="70" height="70" alt="funxyle69"/>
+</a>
+
+<a href="https://github.com/mistergae08">
+  <img src="https://avatars.githubusercontent.com/u/184950558?v=4" width="70" height="70" alt="mistergae08"/>
+</a>
+
+<a href="https://github.com/kanzakikun2">
+  <img src="https://avatars.githubusercontent.com/u/185403031?v=4" width="70" height="70" alt="kanzakikun2"/>
+</a>
+
+<a href="https://github.com/funbee0242">
+  <img src="https://avatars.githubusercontent.com/u/185621684?v=4" width="70" height="70" alt="funbee0242"/>
+</a>
+
+<a href="https://github.com/bantalgulingkosong1">
+  <img src="https://avatars.githubusercontent.com/u/185622625?v=4" width="70" height="70" alt="bantalgulingkosong1"/>
+</a>
+
+---
+  
+[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/NightRunners02)](https://github.com/NightRunners02/NightRunners02/stargazers)
 
 ---
 
@@ -183,3 +207,5 @@
 </details>
 
 ---
+
+
