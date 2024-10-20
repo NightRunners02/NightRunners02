@@ -7,7 +7,7 @@
     <img src="https://github.com/user-attachments/assets/b8d05eb7-7897-4f35-86bf-0198613515c0" height="100px" width="200px" alt="NightRunners02" />
   </a>
     <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/0921e9d1-4a56-4a46-bc6a-130b678b1485" height="100px" width="100px" alt="NightRunners02" />
+    <img src="https://github.com/user-attachments/assets/40778ecc-60e4-483e-b40d-dd4e106b991f" height="100px" width="100px" alt="NightRunners02" />
   </a>
 </div>
 
@@ -169,4 +169,3 @@ Misc / Lain-lain</h2>
 </details>
 
 ---
-
