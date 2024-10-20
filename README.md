@@ -160,7 +160,15 @@
 
 ---
 
-[![Followers repo roster for @NightRunners02](https://reporoster.com/followers/NightRunners02)](https://github.com/NightRunners02/followers)
+  <h3>My GitHub Followers</h3>
+
+<a href="https://github.com/MuhamadAhdanfauzan">
+  <img src="https://avatars.githubusercontent.com/u/149153354?v=4" width="80" height="80" alt="(https://github.com/MuhamadAhdanfauzan)"/>
+</a>
+
+<a href="https://github.com/fluffyash5">
+  <img src="https://avatars.githubusercontent.com/u/173683683?v=4" width="80" height="80" alt="[follower2](https://github.com/fluffyash5)"/>
+</a>
 
 ---
 
