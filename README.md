@@ -160,7 +160,7 @@
 
 ---
 
-[![Followers repo roster for @NightRunners02/](https://reporoster.com/followers/NightRunners02/NightRunners02)](https://github.com/NightRunners02/NightRunners02/followers)
+[![Followers repo roster for @NightRunners02](https://reporoster.com/followers/NightRunners02)](https://github.com/NightRunners02?tab=followers)
 
 ---
 
