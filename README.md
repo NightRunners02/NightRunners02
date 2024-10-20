@@ -156,29 +156,17 @@ Misc / Lain-lain</h2>
 <p>
 <div align="center">
 
-[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/Pemrograman-Web_Codelab-Praktikum_Khairy)](https://github.com/NightRunners02/Pemrograman-Web_Codelab-Praktikum_Khairy)
+[![Stargazers repo roster for @NightRunners02/](https://reporoster.com/stars/NightRunners02/NightRunners02)](https://github.com/NightRunners02/NightRunners02/stargazers)
 
 
-[![Forkers repo roster for @NightRunners02/](https://reporoster.com/forks/NightRunners02/GraphGPT)](https://github.com/HKUDS/GraphGPT/network/members)
+[![Forkers repo roster for @NightRunners02/](https://reporoster.com/forks/NightRunners02/NightRunners02)](https://github.com/NightRunners02/NightRunners02/network/members)
 
 
-[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/GraphGPT&type=Date)](https://star-history.com/#HKUDS/GraphGPT&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=NightRunners02/NightRunners02&type=Date)](https://star-history.com/#NightRunners02/NightRunners02&Date)
 
 </p>
 </div>
 </details>
 
 ---
-## Misc
 
-<div align="center">
-
-[![Stargazers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/stars/NightRunners02/GraphGPT)](https://github.com/NightRunners02/GraphGPT/stargazers)
-
-
-[![Forkers repo roster for @NightRunners02/GraphGPT](https://reporoster.com/forks/NightRunners02/GraphGPT)](https://github.com/HKUDS/NightRunners02/network/members)
-
-
-[![Star History Chart](https://api.star-history.com/svg?repos=HKUDS/GraphGPT&type=Date)](https://star-history.com/#HKUDS/GraphGPT&Date)
-
-</div>
