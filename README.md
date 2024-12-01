@@ -191,11 +191,6 @@
   <img src="https://avatars.githubusercontent.com/u/185622625?v=4" width="30" height="30" alt="bantalgulingkosong1"/>
 </a>
 
-<a href="https://github.com/eust-w">
-  <img src="https://avatars.githubusercontent.com/u/39115651?v=4" width="30" height="30" alt="eust-w"/>
-</a>
-
-
 ---
 <h3>
   🌠 Starred:
