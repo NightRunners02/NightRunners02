@@ -23,8 +23,6 @@
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NightRunners02" alt="Profile Views" />
-  <img src="https://visitor-badge.glitch.me/badge?page_id=NightRunners02" alt="Profile Views" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NightRunners02" alt="Profile Views" />
 </p>
 
  <br>
