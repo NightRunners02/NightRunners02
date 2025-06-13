@@ -23,6 +23,9 @@
 
 <p align="center">
   <img alt="Profile Visits" src="https://visitcount.itsvg.in/api?id=NightRunners02&label=Profile%20Views&color=0&icon=5"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NightRunners02" alt="Profile Views" />
+</p>
+
  <br>
 
 <br>
