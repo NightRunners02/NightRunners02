@@ -25,8 +25,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NightRunners02" alt="Profile Views" />
 </p>
 
- <br>
-
 <br>
 
 <!-- Social icons section -->
