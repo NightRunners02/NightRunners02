@@ -9,6 +9,11 @@
     <a href="https://github.com/NightRunners02">
     <img src="https://github.com/user-attachments/assets/40778ecc-60e4-483e-b40d-dd4e106b991f" height="100px" width="100px" alt="NightRunners02" />
   </a>
+  </a>
+    <a href="https://github.com/NightRunners02">
+    <img src="https://github.com/user-attachments/assets/4aca70d1-8c4f-4330-91bd-4a7bfe18d369" height="100px" width="100px" alt="NightRunners02" />
+  </a>
+
 </div>
 
 <p align="center">
