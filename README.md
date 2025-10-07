@@ -11,7 +11,7 @@
   </a>
   </a>
     <a href="https://github.com/NightRunners02">
-    <img src="https://github.com/user-attachments/assets/4aca70d1-8c4f-4330-91bd-4a7bfe18d369" height="100px" width="100px" alt="NightRunners02" />
+    <img src="https://github.com/user-attachments/assets/59a6f337-67d4-4f99-b315-d88619b8b3cf" height="100px" width="100px" alt="NightRunners02" />
   </a>
 
 </div>
