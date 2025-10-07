@@ -190,6 +190,14 @@
   <img src="https://avatars.githubusercontent.com/u/185622625?v=4" width="30" height="30" alt="bantalgulingkosong1"/>
 </a>
 
+<a href="https://github.com/tahaaldrage123-png">
+  <img src="https://avatars.githubusercontent.com/u/227698803?v=4" width="30" height="30" alt="tahaaldrage123-png"/>
+</a>
+
+<a href="https://github.com/nazirhasan1406">
+  <img src="https://avatars.githubusercontent.com/u/92445402?v=4" width="30" height="30" alt="nazirhasan1406"/>
+</a>
+
 ---
 <h3>
   🌠 Starred:
