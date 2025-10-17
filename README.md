@@ -33,7 +33,10 @@
 <p align="center"> 
   <a href="https://www.youtube.com/@khairyzhafran7018"> <img width="32px" alt="YouTube" title="YouTube" src="https://cdn.simpleicons.org/youtube/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://discordapp.com/users/851778536398389303" alt="Discord" title="Profile"> <img width="32px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://instagram.com/catfun0202"> <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/FFA500"/> </a> </p><br/>
+  <a href="https://instagram.com/catfun0202"> <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/FFA500"/> </a> 
+  <a href="https://github.com/NightRunners02/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/NightRunners02-profile-views"/></a>
+</p><br/>
 
 <p align="center">
   <!-- GitHub Followers -->
