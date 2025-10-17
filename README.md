@@ -54,17 +54,6 @@
 
 <br/>
 
-<!-- Social badges section -->
-<!-- Badges with custom icons - https://github.com/DenverCoder1/custom-icon-badges -->
-<!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
-<p align="center">
-  
-  <a href="https://github.com/NightRunners02/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/NightRunners02-profile-views"/></a>
-</p>
-
-<br/>
-
 ---
 
 <p align="center">
