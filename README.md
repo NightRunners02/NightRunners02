@@ -169,7 +169,8 @@
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=pHSP_tdukyw"><img src="https://ytcards.demolab.com/?id=pHSP_tdukyw&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)" title="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)"></a>
+<a href="https://www.youtube.com/watch?v=pHSP_tdukyw"><img src="https://ytcards.demolab.com/?id=pHSP_tdukyw&title=Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)
+&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)" title="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)"></a>
 
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
