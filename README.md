@@ -172,6 +172,24 @@
 </details>
 
 <details> 
+  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+
+  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
+
+  <!-- prettier-ignore-start -->
+<!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=pHSP_tdukyw"><img src="https://ytcards.demolab.com/?id=pHSP_tdukyw&title=GitHub+Star+Swag+Unboxing+and+Giveaways&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)" title="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)"></a>
+
+<!-- END YOUTUBE-CARDS -->
+  <!-- prettier-ignore-end -->
+
+  <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
+  
+  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  
+</details>
+
+<details> 
   <summary>
   <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
   </summary>
