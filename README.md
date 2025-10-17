@@ -60,7 +60,7 @@
 <p align="center">
   
   <a href="https://github.com/NightRunners02/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/DenverCoder1-profile-views"/></a>
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/NightRunners02-profile-views"/></a>
 </p>
 
 <br/>
