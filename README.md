@@ -107,8 +107,6 @@
     
   <a href="https://github.com/NightRunners02/github-readme-activity-graph"><img alt="NightRunners02's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NightRunners02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-
-
 </details>
 
 <details> 
@@ -172,7 +170,7 @@
 </details>
 
 <details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
+  <summary><h2>📺 Latest YouTube Videos / Video Youtube Terbaru</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
@@ -182,10 +180,8 @@
 
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
-
-  <p>📺 Get YouTube Cards for your profile at <a href="https://github.com/DenverCoder1/github-readme-youtube-cards">DenverCoder1/github-readme-youtube-cards</a></p>
   
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UC2F50DJx-9BiVKXNdLQJqHQ?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
   
 </details>
 
