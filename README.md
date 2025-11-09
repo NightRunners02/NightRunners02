@@ -248,4 +248,7 @@
 
 ---
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Terima%20Kasih%20Telah%20Mengunjung%20Profileku%20👋🏻&fontSize=25&fontColor=ffc000&animation=twinkling" />
+
+
 
