@@ -53,12 +53,7 @@
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
-<p align="center"> 
-  <a href="https://www.youtube.com/@khairyzhafran7018"> <img width="32px" alt="YouTube" title="YouTube" src="https://cdn.simpleicons.org/youtube/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://discordapp.com/users/851778536398389303" alt="Discord" title="Profile"> <img width="32px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
-  <a href="https://instagram.com/catfun0202"> <img width="32px" alt="Instagram" title="Instagram" src="https://cdn.simpleicons.org/instagram/FFA500"/> </a> 
-  
-</p><br/>
+<br/>
 
 <p align="center">
   <!-- GitHub Followers -->
