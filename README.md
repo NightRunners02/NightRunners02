@@ -36,7 +36,23 @@
 <br>
 
 <!-- Social icons section -->
-
+<p align="center">
+  <a href="mailto:aminehamzaoui1926@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b">
+    <img src="https://img.shields.io/badge/LinkedIn-091519?style=for-the-badge&logo=linkedin&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.instagram.com/catfun0202">
+    <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
+  </a>
+  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
+    <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
+  </a>
+  <a href="https://discord.com/users/805123459566010417">
+    <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
+  </a>
+</p>
 <p align="center"> 
   <a href="https://www.youtube.com/@khairyzhafran7018"> <img width="32px" alt="YouTube" title="YouTube" src="https://cdn.simpleicons.org/youtube/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
   <a href="https://discordapp.com/users/851778536398389303" alt="Discord" title="Profile"> <img width="32px" alt="Discord" title="Discord" src="https://cdn.simpleicons.org/discord/FFA500"/> </a> &#8287;&#8287;&#8287;&#8287;&#8287; 
@@ -173,14 +189,21 @@
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=pHSP_tdukyw">
-  <img src="https://ytcards.demolab.com/?id=pHSP_tdukyw&title=Mizu+Zokusei+no+Mahoutsukai+%7C+The+Water+Magician+%28Ending+Song%29&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)" title="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)">
+<a href="https://www.youtube.com/watch?v=kJQIIc5T__8" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=kJQIIc5T__8&title=Feint+%26+Josh+Rubin+-+Let+Me+Go+%5BMonstercat+Release%5D&lang=en&timestamp=1676332800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Feint & Josh Rubin - Let Me Go [Monstercat Release]" title="Feint & Josh Rubin - Let Me Go [Monstercat Release]">
 </a>
-<a href="https://www.youtube.com/watch?v=py1HihVnhXc">
-  <img src="https://ytcards.demolab.com/?id=py1HihVnhXc&title=Tutorial+GitHub+Discussions+%7C+Buka+Diskusi%2C+Kolaborasi+Lebih+Mudah+%28Part+1%29&lang=en&timestamp=1697536800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=840" alt="Tutorial GitHub Discussions | Buka Diskusi, Kolaborasi Lebih Mudah (Part 1)" title="Tutorial GitHub Discussions | Buka Diskusi, Kolaborasi Lebih Mudah (Part 1)">
+<a href="https://www.youtube.com/watch?v=72VoMjLm53A" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=72VoMjLm53A&title=Nightcore+-+Walk+Away+%28Lost+Sky+%26+Meggie+York%29+%28Lyrics%29&lang=en&timestamp=1722902400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Nightcore - Walk Away (Lost Sky & Meggie York) (Lyrics)" title="Nightcore - Walk Away (Lost Sky & Meggie York) (Lyrics)">
 </a>
-  
+  <a href="https://www.youtube.com/watch?v=pHSP_tdukyw" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=pHSP_tdukyw&title=Mizu+Zokusei+no+Mahoutsukai+%7C+The+Water+Magician+%28Ending+Song%29&lang=en&timestamp=1751587200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)" title="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)">
+</a>
+<a href="https://www.youtube.com/watch?v=py1HihVnhXc" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=py1HihVnhXc&title=Tutorial+GitHub+Discussions%3A+Buka+Diskusi%2C+Kolaborasi+Lebih+Mudah%21+-+Part+1+%282024%29&lang=en&timestamp=1735516800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=840" alt="Tutorial GitHub Discussions: Buka Diskusi, Kolaborasi Lebih Mudah! - Part 1 (2024)" title="Tutorial GitHub Discussions: Buka Diskusi, Kolaborasi Lebih Mudah! - Part 1 (2024)">
+</a>
 
+
+</a>
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
   
