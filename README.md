@@ -18,6 +18,8 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;Experienced%20UI%2FUX%20Designer;10%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=ADD8E6&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
+---
+
 <img src="https://awesome-svg.vercel.app/card/card_2?name=NightRunners02&summary=Newbie%20Developer&style=nameColor:rgba(223,255,0,1);summaryColor:rgba(57,255,20,1);backgroundColor:rgba(0,0,0,1);" />
 
 <div align="center">
@@ -252,7 +254,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Terima%20Kasih%20Telah%20Mengunjung%20Profileku%20👋🏻&fontSize=25&fontColor=ffc000&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20For%20Visiting%20MY%20Profile%20🥀&fontSize=25&fontColor=ff1100&animation=twinkling" />
 
 
 
