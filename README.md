@@ -46,10 +46,10 @@
   <a href="https://www.instagram.com/catfun0202">
     <img src="https://img.shields.io/badge/Instagram-091519?style=for-the-badge&logo=instagram&logoColor=61DAFB" />
   </a>
-  <a href="https://www.facebook.com/share/1EZqQrtBKf/">
+  <a href="https://www.facebook.com/khairy.zhafran.315">
     <img src="https://img.shields.io/badge/Facebook-091519?style=for-the-badge&logo=facebook&logoColor=61DAFB" />
   </a>
-  <a href="https://discord.com/users/805123459566010417">
+  <a href="https://discord.com/users/851778536398389303">
     <img src="https://img.shields.io/badge/Discord-091519?style=for-the-badge&logo=discord&logoColor=61DAFB" />
   </a>
 </p>
