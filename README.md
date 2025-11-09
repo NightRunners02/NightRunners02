@@ -70,7 +70,7 @@
 <details>
   
   <summary>
-    <h2>📊 Statistics and Activity / Statistik dan Aktivitas</h2>
+    <h2>📊 Statistics and Activity / Statistik dan Aktivitas:</h2>
   </summary>
   <div align="center">
   <p align="center">
@@ -157,7 +157,7 @@
 </details>
 
 <details> 
-  <summary><h2>📺 Latest YouTube Videos / Video Youtube Terbaru</h2></summary>
+  <summary><h2>📺 Latest YouTube Videos / Video Youtube Terbaru:</h2></summary>
 
   <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
 
@@ -178,8 +178,14 @@
 </details>
 
 <details> 
+  <summary><h2>🏆 Top Contributed Repo / Repo Kontribusi Teratas:</h2></summary>
+  
+<img src="https://github-contributor-stats.vercel.app/api?username=NightRunners02&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+</details>
+
+<details> 
   <summary>
-  <h2> ⛓️‍💥 Misc / Lain-lain</h2> 
+  <h2> ⛓️‍💥 Misc / Lain-lain:</h2> 
   </summary>
 
 <p>
