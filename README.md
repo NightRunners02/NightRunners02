@@ -9,7 +9,7 @@
     <a href="https://github.com/NightRunners02">
     <img src="https://github.com/user-attachments/assets/59a6f337-67d4-4f99-b315-d88619b8b3cf" height="100px" width="100px" alt="NightRunners02" />
   </a>
-
+    
 </div>
 
 <p align="center">
@@ -27,10 +27,11 @@
 </div>
 
 ---
+### 📬 Connect with Me  
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NightRunners02" alt="Profile Views" />
-</p>
+</p> 
 
 <br>
 
@@ -55,9 +56,18 @@
   
   <!-- GitHub Stars -->
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/NightRunners02?style=for-the-badge&logo=github&label=Stars&color=yellow">
-
+  
+  <p align="center">
+  <a href="https://github.com/NightRunners02">
+    <img src="https://img.shields.io/github/followers/NightRunners02?label=Follow%20Me&style=social" />
+  </a>
 </p>
 
+</p>
+<p align="center">
+<a href="https://github.com/NightRunners02">
+    <img src="https://komarev.com/ghpvc/?username=NightRunners02&color=3a8296&label=Profile%20Views" />
+</p> 
 
 ---
 
@@ -169,6 +179,7 @@
 <a href="https://www.youtube.com/watch?v=py1HihVnhXc">
   <img src="https://ytcards.demolab.com/?id=py1HihVnhXc&title=Tutorial+GitHub+Discussions+%7C+Buka+Diskusi%2C+Kolaborasi+Lebih+Mudah+%28Part+1%29&lang=en&timestamp=1697536800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=840" alt="Tutorial GitHub Discussions | Buka Diskusi, Kolaborasi Lebih Mudah (Part 1)" title="Tutorial GitHub Discussions | Buka Diskusi, Kolaborasi Lebih Mudah (Part 1)">
 </a>
+  
 
 <!-- END YOUTUBE-CARDS -->
   <!-- prettier-ignore-end -->
@@ -180,7 +191,12 @@
 <details> 
   <summary><h2>🏆 Top Contributed Repo / Repo Kontribusi Teratas:</h2></summary>
   
-<img src="https://github-contributor-stats.vercel.app/api?username=NightRunners02&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="170em"/>
+<img src="https://github-contributor-stats.vercel.app/api?username=NightRunners02&limit=5&theme=radical&combine_all_yearly_contributions=true&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="195em"/>
+
+<img src="https://github-contributor-stats.vercel.app/api?username=NightRunners02&hide_contributor_rank=false&limit=5&order_by=contributions&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="195em"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=NightRunners02&count_private=true&include_all_commits=true&show_icons=true&theme=swift&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="195em"/>
+
 </details>
 
 <details> 
