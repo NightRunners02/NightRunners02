@@ -254,7 +254,7 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20For%20Visiting%20MY%20Profile%20🥀&fontSize=25&fontColor=ff1100&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=100&section=footer&text=Thanks%20For%20Visiting%20My%20Profile%20🥀&fontSize=25&fontColor=ff1100&animation=twinkling" />
 
 
 
