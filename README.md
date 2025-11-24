@@ -37,7 +37,7 @@
 
 <!-- Social icons section -->
 <p align="center">
-  <a href="mailto:hafizgmaing02@gmail.com">
+  <a href="mailto:hafizgaming02@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-091519?style=for-the-badge&logo=gmail&logoColor=61DAFB" />
   </a>
   <a href="https://www.linkedin.com/in/khairy-zhafran-67998a330">
