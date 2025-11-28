@@ -185,21 +185,31 @@
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
   <h3>▶️ My Best Song / Lagu Favoritku:</h3>
-  <a href="https://www.youtube.com/watch?v=ynfjiIOCL-A" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=ynfjiIOCL-A&title=NUEKI%2C+TOLCHONOV%2C+glichery+-+TIRED+OF+PROBLEMS+%28CHILL+PHONK%2C+TikTok+Remix+Viral+2023%29&lang=en&timestamp=1689897600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="NUEKI, TOLCHONOV, glichery - TIRED OF PROBLEMS (CHILL PHONK, TikTok Remix Viral 2023)" title="NUEKI, TOLCHONOV, glichery - TIRED OF PROBLEMS (CHILL PHONK, TikTok Remix Viral 2023)">
-</a>
   <a href="https://www.youtube.com/watch?v=kddC4gi72UE" target="_blank">
   <img src="https://ytcards.demolab.com/?id=kddC4gi72UE&title=Rival+x+Cadmium+-+Willow+Tree+%28feat.+Rosendale%29+%7C+Dubstep+%7C+NCS&lang=en&timestamp=1543017600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Rival x Cadmium - Willow Tree (feat. Rosendale) | Dubstep | NCS" title="Rival x Cadmium - Willow Tree (feat. Rosendale) | Dubstep | NCS">
 </a>
-  <a href="https://www.youtube.com/watch?v=IUqvuxEZBFo" target="_blank">
+  <a href="https://www.youtube.com/watch?v=BMhrBLD_B2U" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=BMhrBLD_B2U&title=Feint+-+Words+%28feat.+Laura+Brehm%29+%5BMonstercat+Release%5D&lang=en&timestamp=1477526400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Feint - Words (feat. Laura Brehm) [Monstercat Release]" title="Feint - Words (feat. Laura Brehm) [Monstercat Release]">
+</a>
+<a href="https://www.youtube.com/watch?v=ynfjiIOCL-A" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=ynfjiIOCL-A&title=NUEKI%2C+TOLCHONOV%2C+glichery+-+TIRED+OF+PROBLEMS+%28CHILL+PHONK%2C+TikTok+Remix+Viral+2023%29&lang=en&timestamp=1689897600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="NUEKI, TOLCHONOV, glichery - TIRED OF PROBLEMS (CHILL PHONK, TikTok Remix Viral 2023)" title="NUEKI, TOLCHONOV, glichery - TIRED OF PROBLEMS (CHILL PHONK, TikTok Remix Viral 2023)">
+</a>
+<a href="https://www.youtube.com/watch?v=IUqvuxEZBFo" target="_blank">
   <img src="https://ytcards.demolab.com/?id=IUqvuxEZBFo&title=ARMNHMR+-+Falling+Apart+%28Lyrics%29+feat.+Runn&lang=en&timestamp=1643068800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="ARMNHMR - Falling Apart (Lyrics) feat. Runn" title="ARMNHMR - Falling Apart (Lyrics) feat. Runn)">
 </a>
-<a href="https://www.youtube.com/watch?v=kJQIIc5T__8" target="_blank">
-  <img src="https://ytcards.demolab.com/?id=kJQIIc5T__8&title=Feint+%26+Josh+Rubin+-+Let+Me+Go+%5BMonstercat+Release%5D&lang=en&timestamp=1676332800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Feint & Josh Rubin - Let Me Go [Monstercat Release]" title="Feint & Josh Rubin - Let Me Go [Monstercat Release]">
+<a href="https://www.youtube.com/watch?v=z4RfRxxz5lw" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=z4RfRxxz5lw&title=Tetrix+Bass+%26+ROY+KNOX+-+When+I%27m+Gone+%28feat.+Ellen+Louise%29+%7C+NCS&lang=en&timestamp=1654732800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Tetrix Bass & ROY KNOX - When I'm Gone (feat. Ellen Louise) | NCS" title="Tetrix Bass & ROY KNOX - When I'm Gone (feat. Ellen Louise) | NCS">
+</a>
+  <a href="https://www.youtube.com/watch?v=EEk-sRgNzGc" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=EEk-sRgNzGc&title=Diviners+%26+Level+8+-+Guide+You+Home+%7C+House+%7C+NCS&lang=en&timestamp=1677110400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Diviners & Level 8 - Guide You Home | House | NCS" title="Diviners & Level 8 - Guide You Home | House | NCS">
 </a>
 <a href="https://www.youtube.com/watch?v=72VoMjLm53A" target="_blank">
   <img src="https://ytcards.demolab.com/?id=72VoMjLm53A&title=Nightcore+-+Walk+Away+%28Lost+Sky+%26+Meggie+York%29+%28Lyrics%29&lang=en&timestamp=1722902400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Nightcore - Walk Away (Lost Sky & Meggie York) (Lyrics)" title="Nightcore - Walk Away (Lost Sky & Meggie York) (Lyrics)">
 </a>
+<a href="https://www.youtube.com/watch?v=kJQIIc5T__8" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=kJQIIc5T__8&title=Feint+%26+Josh+Rubin+-+Let+Me+Go+%5BMonstercat+Release%5D&lang=en&timestamp=1676332800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Feint & Josh Rubin - Let Me Go [Monstercat Release]" title="Feint & Josh Rubin - Let Me Go [Monstercat Release]">
+</a>
+
   <h3>▶️ My Latest Youtube Video / Video Youtube Terbaruku:</h3>
   <a href="https://www.youtube.com/watch?v=pHSP_tdukyw" target="_blank">
   <img src="https://ytcards.demolab.com/?id=pHSP_tdukyw&title=Mizu+Zokusei+no+Mahoutsukai+%7C+The+Water+Magician+%28Ending+Song%29&lang=en&timestamp=1751587200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)" title="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)">
