@@ -184,12 +184,17 @@
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
+  <h3>▶️ My Best Song / Lagu Favoritku:</h3>
+  <a href="https://www.youtube.com/watch?v=IUqvuxEZBFo" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=IUqvuxEZBFo&title=ARMNHMR+-+Falling+Apart+%28Lyrics%29+feat.+Runn&lang=en&timestamp=1643068800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="ARMNHMR - Falling Apart (Lyrics) feat. Runn" title="ARMNHMR - Falling Apart (Lyrics) feat. Runn)">
+</a>
 <a href="https://www.youtube.com/watch?v=kJQIIc5T__8" target="_blank">
   <img src="https://ytcards.demolab.com/?id=kJQIIc5T__8&title=Feint+%26+Josh+Rubin+-+Let+Me+Go+%5BMonstercat+Release%5D&lang=en&timestamp=1676332800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Feint & Josh Rubin - Let Me Go [Monstercat Release]" title="Feint & Josh Rubin - Let Me Go [Monstercat Release]">
 </a>
 <a href="https://www.youtube.com/watch?v=72VoMjLm53A" target="_blank">
   <img src="https://ytcards.demolab.com/?id=72VoMjLm53A&title=Nightcore+-+Walk+Away+%28Lost+Sky+%26+Meggie+York%29+%28Lyrics%29&lang=en&timestamp=1722902400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Nightcore - Walk Away (Lost Sky & Meggie York) (Lyrics)" title="Nightcore - Walk Away (Lost Sky & Meggie York) (Lyrics)">
 </a>
+  <h3>▶️ My Latest Video Youtube / Video Terbaru Youtubeku:</h3>
   <a href="https://www.youtube.com/watch?v=pHSP_tdukyw" target="_blank">
   <img src="https://ytcards.demolab.com/?id=pHSP_tdukyw&title=Mizu+Zokusei+no+Mahoutsukai+%7C+The+Water+Magician+%28Ending+Song%29&lang=en&timestamp=1751587200&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)" title="Mizu Zokusei no Mahoutsukai | The Water Magician (Ending Song)">
 </a>
