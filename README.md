@@ -185,6 +185,9 @@
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
   <h3>▶️ My Best Song / Lagu Favoritku:</h3>
+  <a href="https://www.youtube.com/watch?v=ynfjiIOCL-A" target="_blank">
+  <img src="https://ytcards.demolab.com/?id=ynfjiIOCL-A&title=NUEKI%2C+TOLCHONOV%2C+glichery+-+TIRED+OF+PROBLEMS+%28CHILL+PHONK%2C+TikTok+Remix+Viral+2023%29&lang=en&timestamp=1689897600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="NUEKI, TOLCHONOV, glichery - TIRED OF PROBLEMS (CHILL PHONK, TikTok Remix Viral 2023)" title="NUEKI, TOLCHONOV, glichery - TIRED OF PROBLEMS (CHILL PHONK, TikTok Remix Viral 2023)">
+</a>
   <a href="https://www.youtube.com/watch?v=kddC4gi72UE" target="_blank">
   <img src="https://ytcards.demolab.com/?id=kddC4gi72UE&title=Rival+x+Cadmium+-+Willow+Tree+%28feat.+Rosendale%29+%7C+Dubstep+%7C+NCS&lang=en&timestamp=1543017600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=0" alt="Rival x Cadmium - Willow Tree (feat. Rosendale) | Dubstep | NCS" title="Rival x Cadmium - Willow Tree (feat. Rosendale) | Dubstep | NCS">
 </a>
