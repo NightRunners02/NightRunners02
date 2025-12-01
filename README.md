@@ -288,6 +288,14 @@
   <img src="https://avatars.githubusercontent.com/u/92445402?v=4" width="30" height="30" alt="nazirhasan1406"/>
 </a>
 
+<a href="https://github.com/jawanutri21">
+  <img src="https://avatars.githubusercontent.com/u/246846067?v=4" width="30" height="30" alt="jawanutri21"/>
+</a>
+
+<a href="https://github.com/jawajetex78">
+  <img src="https://avatars.githubusercontent.com/u/246849189?v=4" width="30" height="30" alt="jawajetex78"/>
+</a>
+
 ---
 <h3>
   🌠 Starred:
