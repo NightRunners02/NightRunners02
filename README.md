@@ -234,7 +234,10 @@
 
 <img src="https://github-contributor-stats.vercel.app/api?username=NightRunners02&hide_contributor_rank=false&limit=5&order_by=contributions&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="195em"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=NightRunners02&count_private=true&include_all_commits=true&show_icons=true&theme=swift&title_color=61DAFB&text_color=C8E1FF&bg_color=0,091519,000000&border_color=3a8296&hide_border=false" height="195em"/>
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=NightRunners02&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&title_color=70e5ff&text_color=b0eaff&bg_color=0,0a0f1a,000000&border_color=3a8296"
+/>
+
 
 </details>
 
