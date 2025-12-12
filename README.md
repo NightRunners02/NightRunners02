@@ -106,14 +106,14 @@
   </a>    
   </p>
 </div>
-    
   </p>
 
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <div align="center">
-  <p align="center">
-    
-  <a href="https://github.com/NightRunners02/github-readme-activity-graph"><img alt="NightRunners02's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=NightRunners02&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/NightRunners02/github-readme-activity-graph">
+  <img alt="NightRunners02's Activity Graph" 
+       src="https://github-readme-activity-graph.vercel.app/graph/?username=NightRunners02&bg_color=000000&color=00eaff&line=00c8ff&point=7dfbff&area_color=00eaff&area=true&hide_border=true" />
+</a>
 
 </details>
 
