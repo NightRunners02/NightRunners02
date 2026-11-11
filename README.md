@@ -59,11 +59,9 @@
   <!-- GitHub Followers -->
   <img alt="GitHub Followers" src="https://img.shields.io/github/followers/NightRunners02?style=for-the-badge&logo=github&label=Followers">
   
-  <!-- YouTube Subscribers -->
-  <img alt="YouTube Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UC2F50DJx-9BiVKXNdLQJqHQ?style=for-the-badge&logo=youtube&label=Subscribers&color=red">
-  
-  <!-- YouTube Views -->
-  <img alt="YouTube Views" src="https://img.shields.io/youtube/channel/views/UC2F50DJx-9BiVKXNdLQJqHQ?style=for-the-badge&logo=youtube&label=Views&color=red">
+  <img alt="YouTube Subscribers" src="https://img.shields.io/badge/Subscribers-Live-red?style=for-the-badge&logo=youtube">
+
+  <img alt="YouTube Views" src="https://img.shields.io/badge/Views-Live-red?style=for-the-badge&logo=youtube">
   
   <!-- GitHub Stars -->
   <img alt="GitHub Stars" src="https://img.shields.io/github/stars/NightRunners02?style=for-the-badge&logo=github&label=Stars&color=yellow">
